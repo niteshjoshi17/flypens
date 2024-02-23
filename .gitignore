@@ -1,0 +1,15 @@
+# Dependency directories
+/node_modules
+
+# Build files
+/build
+/dist
+
+# Environment files
+.env*
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*.swo
